@@ -1,0 +1,3 @@
+file three
+Added after rename of f3 to file4.txt
+
