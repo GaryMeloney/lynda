@@ -2,3 +2,5 @@ file one
 line2
 added to master branch
 line 3
+b1 line added
+b1 line added
