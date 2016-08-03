@@ -1,1 +1,2 @@
 file three now file four
+new text
