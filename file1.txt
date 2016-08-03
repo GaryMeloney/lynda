@@ -1,3 +1,4 @@
 file one
 line2
 line 3
+b1 line added
