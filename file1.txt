@@ -2,6 +2,6 @@ file one
 line2
 added to master branch
 line 3
-the line in conflict master
+the line in conflict b1/master now resolved
 b1 line added
 b1 line added
